@@ -35,13 +35,13 @@ Section 3: Bugs                                   *MiniTriangleBugs*
 Numbers are highlighted if they are part of a variable name
 
 If you find any other bugs please notify me here
-https://github.com/chrisBirmingham/miniTriangle/issues
+https://github.com/chrisBirmingham/vim-miniTriangle/issues
 
 ====================================================================
 Section 4: Contributing                   *MiniTriangleContributing*
 
 Feel like contributing. Fork the repository and send a pull request
-https://github.com/chrisBirmingham/miniTriangle
+https://github.com/chrisBirmingham/vim-miniTriangle
 
 ====================================================================
 Section 5: Changelog                        *MiniTriangleChanglelog*
