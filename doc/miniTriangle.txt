@@ -46,7 +46,8 @@ https://github.com/chrisBirmingham/vim-miniTriangle
 ====================================================================
 Section 5: Changelog                        *MiniTriangleChanglelog*
 
-To be added to once changes have been made
+25th November 2015 - Added key bindings to switch between TAM and MT
+files
 
 ====================================================================
 Section 6: Credits                             *MiniTriangleCredits*
