@@ -12,11 +12,11 @@ CONTENTS                                      *MiniTriangleContents*
 
     1. Usage ................ |MiniTriangleUsage|
     2. Mappings ............. |MiniTriangleMappings|
-    2. License .............. |MiniTriangleLicense|
-    3. Bugs ................. |MiniTriangleBugs|
-    4. Contributing ......... |MiniTriangleContributing|
-    5. Changelog ............ |MiniTriangleChangelog|
-    6. Credits .............. |MiniTriangleCredits|
+    3. License .............. |MiniTriangleLicense|
+    4. Bugs ................. |MiniTriangleBugs|
+    5. Contributing ......... |MiniTriangleContributing|
+    6. Changelog ............ |MiniTriangleChangelog|
+    7. Credits .............. |MiniTriangleCredits|
 
 ====================================================================
 Section 1: Usage                                 *MiniTriangleUsage*
