@@ -42,6 +42,7 @@ syntax match miniTriangleOperator "\v\>\="
 syntax match miniTriangleOperator "\v\<\="
 syntax match miniTriangleOperator "\v\!\="
 syntax match miniTriangleOperator "\v\&\&"
+syntax match miniTriangleOperator "||"
 highlight link miniTriangleOperator Operator
 
 "Add ability to highlight constants
@@ -55,6 +56,7 @@ highlight link miniTriangleType Type
 "Add ability to highlight characters and some escape characters
 syntax match miniTriangleCharacter "'[a-z]'"
 syntax match miniTriangleCharacter "'[A-Z]'"
+syntax match miniTriangleCharacter "'[0-9]'"
 syntax match miniTriangleCharacter "\v\'\\n\'"
 syntax match miniTriangleCharacter "\v\'\\t\'"
 syntax match miniTriangleCharacter "\v\'\\r\'"

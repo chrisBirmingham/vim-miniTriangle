@@ -11,6 +11,7 @@
 CONTENTS                                      *MiniTriangleContents*
 
     1. Usage ................ |MiniTriangleUsage|
+    2. Mappings ............. |MiniTriangleMappings|
     2. License .............. |MiniTriangleLicense|
     3. Bugs ................. |MiniTriangleBugs|
     4. Contributing ......... |MiniTriangleContributing|
@@ -24,13 +25,20 @@ This plugin automatically provides syntax highlighting and basic
 folding for MiniTriangle files (files ending in .mt).
 
 ====================================================================
-Section 2: License                             *MiniTriangleLicence*
+Section 2: Mappings                           *MiniTriangleMappings*
+
+<z-a> : To fold the code based on the current indent level at your 
+        cursor
+<F4>  : To switch between your .mt files and .tam files
+
+====================================================================
+Section 3: License                             *MiniTriangleLicence*
 
 The plugin is released under the wtfpl
 http://sam.zoy.org/wtfpl/COPYING.
 
 ====================================================================
-Section 3: Bugs                                   *MiniTriangleBugs*
+Section 4: Bugs                                   *MiniTriangleBugs*
 
 Numbers are highlighted if they are part of a variable name
 
@@ -38,19 +46,22 @@ If you find any other bugs please notify me here
 https://github.com/chrisBirmingham/vim-miniTriangle/issues
 
 ====================================================================
-Section 4: Contributing                   *MiniTriangleContributing*
+Section 5: Contributing                   *MiniTriangleContributing*
 
 Feel like contributing. Fork the repository and send a pull request
 https://github.com/chrisBirmingham/vim-miniTriangle
 
 ====================================================================
-Section 5: Changelog                        *MiniTriangleChanglelog*
+Section 6: Changelog                        *MiniTriangleChanglelog*
 
-25th November 2015 - Added key bindings to switch between TAM and MT
-files
+25th November 2015 : Added key bindings to switch between TAM and MT
+                     files
+
+27th November 2015 : Added highlighting for numbers as characters 
+                     and the || operator
 
 ====================================================================
-Section 6: Credits                             *MiniTriangleCredits*
+Section 7: Credits                             *MiniTriangleCredits*
 
 Steve Losh: Thank you for Learn Vimscript the Hard Way really helped 
 me learn Vim and is the primary inspiration for this plugin.
