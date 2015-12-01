@@ -16,7 +16,8 @@ CONTENTS                                      *MiniTriangleContents*
     4. Bugs ................. |MiniTriangleBugs|
     5. Contributing ......... |MiniTriangleContributing|
     6. Changelog ............ |MiniTriangleChangelog|
-    7. Credits .............. |MiniTriangleCredits|
+    7. Contributors ......... |MiniTriangleContributors|
+    8. Credits .............. |MiniTriangleCredits|
 
 ====================================================================
 Section 1: Usage                                 *MiniTriangleUsage*
@@ -60,8 +61,20 @@ Section 6: Changelog                        *MiniTriangleChanglelog*
 27th November 2015 : Added highlighting for numbers as characters 
                      and the || operator
 
+1st December 2015  : Fixed highlighting so numbers are not 
+                     highlighted in variables, added basic 
+                     indentation support and added contributors 
+                     section to the docs
+
 ====================================================================
-Section 7: Credits                             *MiniTriangleCredits*
+Section 7: Contributors                   *MiniTriangleContributors*
+
+Christopher Birmingham : https://github.com/chrisBirmingham
+
+Jamie Tanna : https://github.com/jamietanna
+
+====================================================================
+Section 8: Credits                             *MiniTriangleCredits*
 
 Steve Losh: Thank you for Learn Vimscript the Hard Way really helped 
 me learn Vim and is the primary inspiration for this plugin.

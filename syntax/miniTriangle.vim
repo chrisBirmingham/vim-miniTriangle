@@ -66,7 +66,7 @@ syntax match miniTriangleCharacter "\v\'\\\\'"
 highlight link miniTriangleCharacter Character
 
 "Add ability to highlight integers
-syntax match miniTriangleInteger "[0-9]"
+syntax match miniTriangleInteger "\v<\d+>"
 highlight link miniTriangleInteger Number
 
 let b:current_syntax = "Mini Triangle"
