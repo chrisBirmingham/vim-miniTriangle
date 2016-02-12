@@ -23,6 +23,8 @@ function! GetMiniTriangleIndent()
         return indent(previousNum) + &shiftwidth
     elseif previous =~ "end"
         return indent(previousNum) - &shiftwidth
+    elseif previous =~ ""
+        return 0
     else
         return indent(previousNum)
     endif
